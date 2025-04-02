@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note-Black</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="ajouter">Ajouter un note</string>
+    <string name="retourner_en_arrier">Retourner en arrier</string>
+    <string name="mettre_a_jour">Mettre a jour</string>
+    <string name="titre">Titre</string>
+    <string name="content">Description de la note</string>
+</resources>
